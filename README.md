@@ -10,6 +10,7 @@
 - `供电电源为24V-25W，需求电源5V,3.3V`
 - `完成原理图设计后，计算总体功耗小于10W`
 - `需要放入250*110*60的导轨式外壳`
-<img width="1550" height="796" alt="image" src="https://github.com/user-attachments/assets/50c69e39-6c0f-4c66-ba44-28764033cccd" />
+- PCB尺寸如下
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/50c69e39-6c0f-4c66-ba44-28764033cccd" />
 
 ## 2.原理图设计
