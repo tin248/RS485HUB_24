@@ -11,6 +11,6 @@
 - `完成原理图设计后，计算总体功耗小于10W`
 - `需要放入250*110*60的导轨式外壳`
 - PCB尺寸如下
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/50c69e39-6c0f-4c66-ba44-28764033cccd" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/50c69e39-6c0f-4c66-ba44-28764033cccd" />
 
 ## 2.原理图设计
